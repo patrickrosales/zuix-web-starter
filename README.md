@@ -2,7 +2,6 @@
 
 zuix web starter is a web bundler and progressive web app (PWA) generator
 with static-site features and component oriented development based on [zuix.js](https://zuixjs.github.io/zuixjs.org).
-Test
 
 
 ## Featuring
